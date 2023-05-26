@@ -2,7 +2,7 @@ using System;
 
 class Principal {
 
-    static void Mains(){
+    static void Main(){
         Console.Write("Olá Mundo");
     }
 }
